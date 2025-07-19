@@ -1,4 +1,5 @@
 output/audio/
+audio/
 
 .venv/
 *.pyc

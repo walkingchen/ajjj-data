@@ -21,6 +21,12 @@ def load_ads_summary(csv_path: str) -> pd.DataFrame:
     try:
         df = pd.read_csv(csv_path)
         print(f"成功加载 {len(df)} 条记录")
+        
+        # 检查是否有发布时间列
+        if '发布时间' not in df.columns:
+            print("警告: CSV文件中没有发布时间列")
+            df['发布时间'] = ''
+        
         return df
     except Exception as e:
         print(f"加载CSV文件失败: {e}")

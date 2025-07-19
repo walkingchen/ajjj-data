@@ -272,11 +272,60 @@ def parse_ollama_response(response_text):
             'timestamp': ''
         }
 
+def load_publish_dates():
+    """
+    加载发布时间数据
+    """
+    published_path = os.path.join('output', 'published.json')
+    if not os.path.exists(published_path):
+        print("警告: 发布时间文件不存在，将使用空值")
+        return {}
+    
+    try:
+        with open(published_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return data
+    except Exception as e:
+        print(f"读取发布时间文件失败: {e}")
+        return {}
+
+def get_publish_date(filename, publish_dates):
+    """
+    获取视频发布时间
+    """
+    for video_id, info in publish_dates.items():
+        if info.get('filename') == filename:
+            return info.get('publish_date', '')
+    return ''
+
+def update_analysis_with_publish_date(analysis_path, publish_date):
+    """
+    更新分析文件，添加发布时间信息
+    """
+    try:
+        with open(analysis_path, 'r', encoding='utf-8') as f:
+            analysis_data = json.load(f)
+        
+        # 添加发布时间信息
+        analysis_data['publish_date'] = publish_date
+        
+        # 保存更新后的文件
+        with open(analysis_path, 'w', encoding='utf-8') as f:
+            json.dump(analysis_data, f, ensure_ascii=False, indent=2)
+        
+        return True
+    except Exception as e:
+        print(f"更新分析文件失败 {analysis_path}: {e}")
+        return False
+
 def summarize_results(video_files):
     """
     汇总所有分析结果，输出为CSV
     """
     results = []
+    
+    # 加载发布时间数据
+    publish_dates = load_publish_dates()
     
     for video_path in video_files:
         analysis_filename = os.path.splitext(os.path.basename(video_path))[0] + '_analysis.json'
@@ -296,9 +345,18 @@ def summarize_results(video_files):
             # 提取视频文件名（不含路径）
             video_filename = os.path.basename(video_path)
             
+            # 获取发布时间
+            publish_date = get_publish_date(video_filename, publish_dates)
+            
+            # 更新分析文件，添加发布时间
+            if publish_date:
+                update_analysis_with_publish_date(analysis_path, publish_date)
+                print(f"已更新发布时间: {video_filename} -> {publish_date}")
+            
             # 添加到结果列表
             results.append({
                 '文件名': video_filename,
+                '发布时间': publish_date,
                 '是否包含广告': parsed_result.get('is_ad', False),
                 '广告类型': parsed_result.get('ad_type', '无'),
                 '商品名称': parsed_result.get('product_name', ''),
