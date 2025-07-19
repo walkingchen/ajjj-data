@@ -1,0 +1,5 @@
+output/audio/
+
+.venv/
+*.pyc
+.DS_Store

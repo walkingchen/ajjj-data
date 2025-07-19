@@ -1,0 +1,910 @@
+{
+  "transcript_path": "output/transcript/高一VLOG  美食+家人=端午安康！ [BV1mX4y1p7TD].json",
+  "analysis_result": "```json\n{\n  \"is_ad\": false,\n  \"ad_type\": \"无\",\n  \"product_name\": \"\",\n  \"ad_text\": \"\",\n  \"confidence\": 0.2,\n  \"timestamp\": \"\"\n}\n```",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.98,
+      "text": "好路",
+      "tokens": [
+        50364,
+        2131,
+        24658,
+        50413
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.62,
+      "end": 2.7800000000000002,
+      "text": "煉吃短舞节",
+      "tokens": [
+        50445,
+        17867,
+        231,
+        10123,
+        5881,
+        255,
+        32721,
+        45161,
+        50503
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.7800000000000002,
+      "end": 3.46,
+      "text": "然后",
+      "tokens": [
+        50503,
+        26636,
+        50537
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.58,
+      "end": 5.1000000000000005,
+      "text": "比我们放假了一天",
+      "tokens": [
+        50543,
+        11706,
+        15003,
+        12744,
+        31706,
+        2289,
+        2257,
+        6135,
+        50619
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 5.74,
+      "end": 7.84,
+      "text": "没有卡不错了",
+      "tokens": [
+        50651,
+        17944,
+        32681,
+        1960,
+        29900,
+        2289,
+        50756
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 7.84,
+      "end": 9.58,
+      "text": "就打着 ну",
+      "tokens": [
+        50756,
+        3111,
+        12467,
+        20708,
+        13087,
+        50843
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 11.6,
+      "end": 15.64,
+      "text": "网ot",
+      "tokens": [
+        50944,
+        16469,
+        239,
+        310,
+        51146
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 16.240000000000002,
+      "end": 17.22,
+      "text": "阿",
+      "tokens": [
+        51176,
+        13594,
+        51225
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 19.38,
+      "end": 22.54,
+      "text": "王男",
+      "tokens": [
+        51333,
+        19940,
+        25243,
+        51491
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 22.54,
+      "end": 23.64,
+      "text": "吉超",
+      "tokens": [
+        51491,
+        42866,
+        19869,
+        51546
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.6256937299455916,
+      "compression_ratio": 0.9035087719298246,
+      "no_speech_prob": 0.012383089400827885
+    },
+    {
+      "id": 10,
+      "seek": 2364,
+      "start": 23.64,
+      "end": 25.04,
+      "text": "我打费了",
+      "tokens": [
+        50364,
+        1654,
+        12467,
+        18464,
+        117,
+        2289,
+        50434
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.335188865661621,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.17711731791496277
+    },
+    {
+      "id": 11,
+      "seek": 2364,
+      "start": 27.04,
+      "end": 29.16,
+      "text": "3、2、2、1",
+      "tokens": [
+        50534,
+        18,
+        1231,
+        17,
+        1231,
+        17,
+        1231,
+        16,
+        50640
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.335188865661621,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.17711731791496277
+    },
+    {
+      "id": 12,
+      "seek": 2364,
+      "start": 32.16,
+      "end": 32.28,
+      "text": "真行",
+      "tokens": [
+        50790,
+        6303,
+        8082,
+        50796
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.335188865661621,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.17711731791496277
+    },
+    {
+      "id": 13,
+      "seek": 2364,
+      "start": 34.28,
+      "end": 35.38,
+      "text": "唉",
+      "tokens": [
+        50896,
+        46762,
+        50951
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.335188865661621,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.17711731791496277
+    },
+    {
+      "id": 14,
+      "seek": 5364,
+      "start": 53.64,
+      "end": 56.76,
+      "text": "- j-j�哼哼誤悲 auction",
+      "tokens": [
+        50364,
+        12,
+        361,
+        12,
+        73,
+        250,
+        3858,
+        120,
+        3858,
+        120,
+        3549,
+        97,
+        14696,
+        110,
+        24139,
+        50520
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 15,
+      "seek": 5364,
+      "start": 56.76,
+      "end": 64.34,
+      "text": "Uuh",
+      "tokens": [
+        50520,
+        52,
+        3232,
+        50899
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 16,
+      "seek": 5364,
+      "start": 64.34,
+      "end": 65.82,
+      "text": "uh",
+      "tokens": [
+        50899,
+        3232,
+        50973
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 17,
+      "seek": 5364,
+      "start": 65.82,
+      "end": 66.58,
+      "text": "uh",
+      "tokens": [
+        50973,
+        3232,
+        51011
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 18,
+      "seek": 5364,
+      "start": 66.58,
+      "end": 69.32,
+      "text": "uh",
+      "tokens": [
+        51011,
+        3232,
+        51148
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 19,
+      "seek": 5364,
+      "start": 69.32,
+      "end": 70.5,
+      "text": "uh",
+      "tokens": [
+        51148,
+        3232,
+        51207
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 20,
+      "seek": 5364,
+      "start": 70.5,
+      "end": 71.98,
+      "text": "uh",
+      "tokens": [
+        51207,
+        3232,
+        51281
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 21,
+      "seek": 5364,
+      "start": 71.98,
+      "end": 72.3,
+      "text": "uh",
+      "tokens": [
+        51281,
+        3232,
+        51297
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 22,
+      "seek": 5364,
+      "start": 72.3,
+      "end": 73.3,
+      "text": "uh",
+      "tokens": [
+        51297,
+        3232,
+        51347
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 23,
+      "seek": 5364,
+      "start": 73.3,
+      "end": 73.8,
+      "text": "uh",
+      "tokens": [
+        51347,
+        3232,
+        51372
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 24,
+      "seek": 5364,
+      "start": 73.8,
+      "end": 74.7,
+      "text": "uh",
+      "tokens": [
+        51372,
+        3232,
+        51417
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 25,
+      "seek": 5364,
+      "start": 74.7,
+      "end": 75.68,
+      "text": "uh",
+      "tokens": [
+        51417,
+        3232,
+        51466
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 26,
+      "seek": 5364,
+      "start": 75.68,
+      "end": 76.06,
+      "text": "uh",
+      "tokens": [
+        51466,
+        3232,
+        51485
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 27,
+      "seek": 5364,
+      "start": 76.06,
+      "end": 76.3,
+      "text": "uh",
+      "tokens": [
+        51485,
+        3232,
+        51497
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 28,
+      "seek": 5364,
+      "start": 76.3,
+      "end": 78.8,
+      "text": "uh",
+      "tokens": [
+        51497,
+        3232,
+        51622
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 29,
+      "seek": 5364,
+      "start": 78.8,
+      "end": 79.48,
+      "text": "uh",
+      "tokens": [
+        51622,
+        3232,
+        51656
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 30,
+      "seek": 5364,
+      "start": 79.48,
+      "end": 82.4,
+      "text": "uh",
+      "tokens": [
+        51656,
+        3232,
+        51802
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 31,
+      "seek": 5364,
+      "start": 82.4,
+      "end": 82.6,
+      "text": "uh",
+      "tokens": [
+        51802,
+        3232,
+        51812
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 32,
+      "seek": 5364,
+      "start": 82.6,
+      "end": 83.42,
+      "text": "uh",
+      "tokens": [
+        51812,
+        3232,
+        51853
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 33,
+      "seek": 5364,
+      "start": 83.42,
+      "end": 83.58,
+      "text": "uh",
+      "tokens": [
+        51853,
+        3232,
+        51861
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3584532486765006,
+      "compression_ratio": 1.675,
+      "no_speech_prob": 0.3014325201511383
+    },
+    {
+      "id": 34,
+      "seek": 11358,
+      "start": 113.58,
+      "end": 115.58,
+      "text": "咦",
+      "tokens": [
+        50364,
+        8975,
+        99,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7713330921373869,
+      "compression_ratio": 2.263157894736842,
+      "no_speech_prob": 0.6826814413070679
+    },
+    {
+      "id": 35,
+      "seek": 11358,
+      "start": 116.78,
+      "end": 121.25999999999999,
+      "text": "咦咦 咦咦 咦咦",
+      "tokens": [
+        50524,
+        8975,
+        99,
+        8975,
+        99,
+        220,
+        8975,
+        99,
+        8975,
+        99,
+        220,
+        8975,
+        99,
+        8975,
+        99,
+        50748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7713330921373869,
+      "compression_ratio": 2.263157894736842,
+      "no_speech_prob": 0.6826814413070679
+    },
+    {
+      "id": 36,
+      "seek": 11358,
+      "start": 121.66,
+      "end": 128.94,
+      "text": "咦咦 咦咦 咦咦",
+      "tokens": [
+        50768,
+        8975,
+        99,
+        8975,
+        99,
+        220,
+        8975,
+        99,
+        8975,
+        99,
+        220,
+        8975,
+        99,
+        8975,
+        99,
+        51132
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7713330921373869,
+      "compression_ratio": 2.263157894736842,
+      "no_speech_prob": 0.6826814413070679
+    },
+    {
+      "id": 37,
+      "seek": 12894,
+      "start": 129.18,
+      "end": 132.1,
+      "text": "那么老百遮",
+      "tokens": [
+        50376,
+        35693,
+        10439,
+        31906,
+        3330,
+        106,
+        50522
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.8185791969299316,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.13393792510032654
+    },
+    {
+      "id": 38,
+      "seek": 12894,
+      "start": 132.1,
+      "end": 133.82,
+      "text": "I Am",
+      "tokens": [
+        50522,
+        40,
+        2012,
+        50608
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.8185791969299316,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.13393792510032654
+    },
+    {
+      "id": 39,
+      "seek": 12894,
+      "start": 135.8,
+      "end": 138.26,
+      "text": "I Am",
+      "tokens": [
+        50707,
+        40,
+        2012,
+        50830
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.8185791969299316,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.13393792510032654
+    },
+    {
+      "id": 40,
+      "seek": 12894,
+      "start": 140.57999999999998,
+      "end": 141.9,
+      "text": "Oh",
+      "tokens": [
+        50946,
+        3756,
+        51012
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.8185791969299316,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.13393792510032654
+    },
+    {
+      "id": 41,
+      "seek": 12894,
+      "start": 142.9,
+      "end": 144.54,
+      "text": "你赖全",
+      "tokens": [
+        51062,
+        2166,
+        5266,
+        244,
+        11319,
+        51144
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.8185791969299316,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.13393792510032654
+    },
+    {
+      "id": 42,
+      "seek": 12894,
+      "start": 150.14,
+      "end": 153.18,
+      "text": "你赖全",
+      "tokens": [
+        51424,
+        2166,
+        5266,
+        244,
+        11319,
+        51576
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.8185791969299316,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.13393792510032654
+    },
+    {
+      "id": 43,
+      "seek": 15318,
+      "start": 153.18,
+      "end": 159.18,
+      "text": "我",
+      "tokens": [
+        50364,
+        1654,
+        50664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    },
+    {
+      "id": 44,
+      "seek": 15318,
+      "start": 159.18,
+      "end": 161.18,
+      "text": "我",
+      "tokens": [
+        50664,
+        1654,
+        50764
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    },
+    {
+      "id": 45,
+      "seek": 15318,
+      "start": 161.18,
+      "end": 162.18,
+      "text": "我",
+      "tokens": [
+        50764,
+        1654,
+        50814
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    },
+    {
+      "id": 46,
+      "seek": 15318,
+      "start": 162.18,
+      "end": 163.18,
+      "text": "我",
+      "tokens": [
+        50814,
+        1654,
+        50864
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    },
+    {
+      "id": 47,
+      "seek": 15318,
+      "start": 163.18,
+      "end": 164.18,
+      "text": "我",
+      "tokens": [
+        50864,
+        1654,
+        50914
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    },
+    {
+      "id": 48,
+      "seek": 15318,
+      "start": 164.18,
+      "end": 165.18,
+      "text": "我",
+      "tokens": [
+        50914,
+        1654,
+        50964
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    },
+    {
+      "id": 49,
+      "seek": 15318,
+      "start": 165.18,
+      "end": 167.18,
+      "text": "我",
+      "tokens": [
+        50964,
+        1654,
+        51064
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    },
+    {
+      "id": 50,
+      "seek": 15318,
+      "start": 167.18,
+      "end": 168.18,
+      "text": "我",
+      "tokens": [
+        51064,
+        1654,
+        51114
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.6638947296142578,
+      "compression_ratio": 1.7142857142857142,
+      "no_speech_prob": 0.25477153062820435
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "text": "繼續outs做呀我都不知道我都不知道我都不知道我都不知道我都不知道我都不知道我都不知道其实它不油但是就是没有这个型所以真是要再吸现在的那种脑盆绿乳我们买了一个那个按摩的那个东西这两种是可以伸层的按摩头皮哦,太膨了 boop荷绿 Now绿 Now绿 Now绿 Now绿 Now绿 Up绿ه冰头绿 Right了 As冰",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.52,
+      "text": "繼續outs",
+      "tokens": [
+        50364,
+        38459,
+        7711,
+        50540
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.233565139770508,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.4130643904209137
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 31.0,
+      "end": 31.88,
+      "text": "做",
+      "tokens": [
+        50414,
+        10907,
+        50458
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.034264155796596,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.42957890033721924
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 52.0,
+      "end": 53.22,
+      "text": "呀",
+      "tokens": [
+        51464,
+        15348,
+        51525
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.034264155796596,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.42957890033721924
+    },
+    {
+      "id": 3,
+      "seek": 9000,
+      "start": 90.0,
+      "end": 91.0,
+      "text": "我都不知道",
+      "tokens": [
+        50364,
+        1654,
+        7182,
+        17572,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 4,
+      "seek": 9000,
+      "start": 91.0,
+      "end": 92.0,
+      "text": "我都不知道",
+      "tokens": [
+        50414,
+        1654,
+        7182,
+        17572,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 5,
+      "seek": 9000,
+      "start": 92.0,
+      "end": 93.0,
+      "text": "我都不知道",
+      "tokens": [
+        50464,
+        1654,
+        7182,
+        17572,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 6,
+      "seek": 9000,
+      "start": 93.0,
+      "end": 95.0,
+      "text": "我都不知道",
+      "tokens": [
+        50514,
+        1654,
+        7182,
+        17572,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 7,
+      "seek": 9000,
+      "start": 95.0,
+      "end": 96.0,
+      "text": "我都不知道",
+      "tokens": [
+        50614,
+        1654,
+        7182,
+        17572,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 8,
+      "seek": 9000,
+      "start": 96.0,
+      "end": 98.0,
+      "text": "我都不知道",
+      "tokens": [
+        50664,
+        1654,
+        7182,
+        17572,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 9,
+      "seek": 9000,
+      "start": 98.0,
+      "end": 99.0,
+      "text": "我都不知道",
+      "tokens": [
+        50764,
+        1654,
+        7182,
+        17572,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 10,
+      "seek": 9000,
+      "start": 99.0,
+      "end": 100.0,
+      "text": "其实它不油",
+      "tokens": [
+        50814,
+        41646,
+        11284,
+        1960,
+        14420,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 11,
+      "seek": 9000,
+      "start": 100.0,
+      "end": 101.0,
+      "text": "但是",
+      "tokens": [
+        50864,
+        11189,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 12,
+      "seek": 9000,
+      "start": 101.0,
+      "end": 102.0,
+      "text": "就是",
+      "tokens": [
+        50914,
+        5620,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 13,
+      "seek": 9000,
+      "start": 102.0,
+      "end": 104.0,
+      "text": "没有这个型",
+      "tokens": [
+        50964,
+        17944,
+        15368,
+        39823,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 14,
+      "seek": 9000,
+      "start": 104.0,
+      "end": 105.0,
+      "text": "所以真是要",
+      "tokens": [
+        51064,
+        7239,
+        6303,
+        1541,
+        4275,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 15,
+      "seek": 9000,
+      "start": 105.0,
+      "end": 106.0,
+      "text": "再吸",
+      "tokens": [
+        51114,
+        8623,
+        46431,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 16,
+      "seek": 9000,
+      "start": 106.0,
+      "end": 109.0,
+      "text": "现在的那种脑盆",
+      "tokens": [
+        51164,
+        25040,
+        1546,
+        4184,
+        39810,
+        27067,
+        239,
+        5419,
+        228,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 17,
+      "seek": 9000,
+      "start": 109.0,
+      "end": 110.0,
+      "text": "绿乳",
+      "tokens": [
+        51314,
+        10115,
+        123,
+        2930,
+        111,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 18,
+      "seek": 9000,
+      "start": 110.0,
+      "end": 111.0,
+      "text": "我们买了一个",
+      "tokens": [
+        51364,
+        15003,
+        2930,
+        108,
+        2289,
+        20182,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 19,
+      "seek": 9000,
+      "start": 111.0,
+      "end": 113.0,
+      "text": "那个按摩的那个东西",
+      "tokens": [
+        51414,
+        43083,
+        26613,
+        34783,
+        102,
+        1546,
+        43083,
+        38409,
+        16220,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 20,
+      "seek": 9000,
+      "start": 113.0,
+      "end": 115.0,
+      "text": "这两种是可以",
+      "tokens": [
+        51514,
+        5562,
+        36257,
+        39810,
+        1541,
+        6723,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 21,
+      "seek": 9000,
+      "start": 115.0,
+      "end": 117.0,
+      "text": "伸层的按摩头皮",
+      "tokens": [
+        51614,
+        7384,
+        116,
+        9636,
+        224,
+        1546,
+        26613,
+        34783,
+        102,
+        39862,
+        34582,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5350781144766972,
+      "compression_ratio": 1.680722891566265,
+      "no_speech_prob": 0.07651122659444809
+    },
+    {
+      "id": 22,
+      "seek": 11700,
+      "start": 117.0,
+      "end": 118.0,
+      "text": "哦,太膨了",
+      "tokens": [
+        50364,
+        14659,
+        11,
+        9455,
+        39708,
+        101,
+        2289,
+        50414
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 23,
+      "seek": 11700,
+      "start": 118.0,
+      "end": 120.2,
+      "text": " boop",
+      "tokens": [
+        50414,
+        748,
+        404,
+        50524
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 24,
+      "seek": 11700,
+      "start": 121.2,
+      "end": 122.44,
+      "text": "荷",
+      "tokens": [
+        50574,
+        31409,
+        115,
+        50636
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 25,
+      "seek": 11700,
+      "start": 122.44,
+      "end": 124.28,
+      "text": "绿 Now",
+      "tokens": [
+        50636,
+        10115,
+        123,
+        823,
+        50728
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 26,
+      "seek": 11700,
+      "start": 124.28,
+      "end": 125.24,
+      "text": "绿 Now",
+      "tokens": [
+        50728,
+        10115,
+        123,
+        823,
+        50776
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 27,
+      "seek": 11700,
+      "start": 125.24,
+      "end": 128.04,
+      "text": "绿 Now",
+      "tokens": [
+        50776,
+        10115,
+        123,
+        823,
+        50916
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 28,
+      "seek": 11700,
+      "start": 128.04,
+      "end": 129.96,
+      "text": "绿 Now",
+      "tokens": [
+        50916,
+        10115,
+        123,
+        823,
+        51012
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 29,
+      "seek": 11700,
+      "start": 129.96,
+      "end": 132.8,
+      "text": "绿 Now",
+      "tokens": [
+        51012,
+        10115,
+        123,
+        823,
+        51154
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 30,
+      "seek": 11700,
+      "start": 132.8,
+      "end": 134.68,
+      "text": "绿 Up",
+      "tokens": [
+        51154,
+        10115,
+        123,
+        5858,
+        51248
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 31,
+      "seek": 11700,
+      "start": 134.68,
+      "end": 136.72,
+      "text": "绿ه",
+      "tokens": [
+        51248,
+        10115,
+        123,
+        3224,
+        51350
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 32,
+      "seek": 11700,
+      "start": 136.72,
+      "end": 139.0,
+      "text": "冰头",
+      "tokens": [
+        51350,
+        5676,
+        108,
+        39862,
+        51464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 33,
+      "seek": 11700,
+      "start": 139.0,
+      "end": 139.8,
+      "text": "绿 Right",
+      "tokens": [
+        51464,
+        10115,
+        123,
+        1779,
+        51504
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 34,
+      "seek": 11700,
+      "start": 139.8,
+      "end": 142.16,
+      "text": "了 As",
+      "tokens": [
+        51504,
+        2289,
+        1018,
+        51622
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    },
+    {
+      "id": 35,
+      "seek": 11700,
+      "start": 142.16,
+      "end": 145.16,
+      "text": "冰",
+      "tokens": [
+        51622,
+        5676,
+        108,
+        51772
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6358754332636445,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.001878385548479855
+    }
+  ],
+  "language": "zh"
+}

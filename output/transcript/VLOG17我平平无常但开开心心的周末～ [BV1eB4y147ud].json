@@ -1,0 +1,1116 @@
+{
+  "text": "我觉得我在可能阴的但我跟我终于心情的我觉得我滋溝让我们一起来你看你的结果 native让一整天過去来一起见我们 一天就好对我的心情很事与你I sing for youI sing for youI sing for youI sing for youI sing for youLove the way it's not so sweetWith those dimples in your cheeksMake me go crazyAnd when we are aloneWe're just like a storm moving nowhereOh, because I just want to sing a song just for youAnd now because they tell me I have toI sing for youI sing for youI sing for you todayNo matter what they say I sing for youI sing for youIf we want to knowIt's the way I show loveWhen I sing to youCause there's so many wordsI want to say we'll just have to playThe songCause sing for youI sing for youI sing for you todayNo matter what they say I sing for youI sing for youI sing for youI sing for you todayNo matter what they say I sing for youI'm doneI just came homeI went to GuangzhouI went to find them togetherI'm going to the supermarket todayI think the more I look todayI feel betterI didn't want to look so goodI'm going to sleep I'm going to sleep",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.4,
+      "text": "我觉得我在可能阴的",
+      "tokens": [
+        50364,
+        45681,
+        40528,
+        16657,
+        10034,
+        112,
+        1546,
+        50534
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.4,
+      "end": 7.88,
+      "text": "但我跟我终于心情的",
+      "tokens": [
+        50534,
+        8395,
+        1654,
+        47472,
+        10115,
+        230,
+        37732,
+        7945,
+        10570,
+        1546,
+        50758
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.88,
+      "end": 9.16,
+      "text": "我觉得我滋溝",
+      "tokens": [
+        50758,
+        45681,
+        1654,
+        15868,
+        233,
+        16084,
+        251,
+        50822
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.16,
+      "end": 10.200000000000001,
+      "text": "让我们一起来",
+      "tokens": [
+        50822,
+        33650,
+        15003,
+        2257,
+        9147,
+        6912,
+        50874
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.200000000000001,
+      "end": 12.0,
+      "text": "你看你的结果",
+      "tokens": [
+        50874,
+        16529,
+        18961,
+        45641,
+        9319,
+        50964
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.0,
+      "end": 15.16,
+      "text": " native",
+      "tokens": [
+        50964,
+        8470,
+        51122
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 15.16,
+      "end": 16.52,
+      "text": "让一整天",
+      "tokens": [
+        51122,
+        33650,
+        2257,
+        27662,
+        6135,
+        51190
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 16.52,
+      "end": 17.92,
+      "text": "過去来",
+      "tokens": [
+        51190,
+        36910,
+        6912,
+        51260
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 17.92,
+      "end": 20.240000000000002,
+      "text": "一起见",
+      "tokens": [
+        51260,
+        29567,
+        23813,
+        51376
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 20.240000000000002,
+      "end": 22.76,
+      "text": "我们 一天",
+      "tokens": [
+        51376,
+        15003,
+        26923,
+        6135,
+        51502
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 22.76,
+      "end": 24.6,
+      "text": "就好",
+      "tokens": [
+        51502,
+        3111,
+        2131,
+        51594
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 24.6,
+      "end": 25.28,
+      "text": "对",
+      "tokens": [
+        51594,
+        8713,
+        51628
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 25.28,
+      "end": 27.28,
+      "text": "我的心情",
+      "tokens": [
+        51628,
+        14200,
+        7945,
+        10570,
+        51728
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 27.28,
+      "end": 28.64,
+      "text": "很事与你",
+      "tokens": [
+        51728,
+        4563,
+        6973,
+        940,
+        236,
+        2166,
+        51796
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.9649404502776733,
+      "compression_ratio": 1.1506024096385543,
+      "no_speech_prob": 0.48415613174438477
+    },
+    {
+      "id": 14,
+      "seek": 5864,
+      "start": 58.64,
+      "end": 60.64,
+      "text": "I sing for you",
+      "tokens": [
+        50364,
+        40,
+        1522,
+        337,
+        291,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 15,
+      "seek": 5864,
+      "start": 60.64,
+      "end": 65.64,
+      "text": "I sing for you",
+      "tokens": [
+        50464,
+        40,
+        1522,
+        337,
+        291,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 16,
+      "seek": 5864,
+      "start": 65.64,
+      "end": 68.64,
+      "text": "I sing for you",
+      "tokens": [
+        50714,
+        40,
+        1522,
+        337,
+        291,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 17,
+      "seek": 5864,
+      "start": 68.64,
+      "end": 70.64,
+      "text": "I sing for you",
+      "tokens": [
+        50864,
+        40,
+        1522,
+        337,
+        291,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 18,
+      "seek": 5864,
+      "start": 70.64,
+      "end": 73.64,
+      "text": "I sing for you",
+      "tokens": [
+        50964,
+        40,
+        1522,
+        337,
+        291,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 19,
+      "seek": 5864,
+      "start": 73.64,
+      "end": 76.64,
+      "text": "Love the way it's not so sweet",
+      "tokens": [
+        51114,
+        24394,
+        264,
+        636,
+        309,
+        311,
+        406,
+        370,
+        3844,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 20,
+      "seek": 5864,
+      "start": 76.64,
+      "end": 79.64,
+      "text": "With those dimples in your cheeks",
+      "tokens": [
+        51264,
+        20943,
+        729,
+        5013,
+        2622,
+        294,
+        428,
+        24135,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 21,
+      "seek": 5864,
+      "start": 79.64,
+      "end": 82.64,
+      "text": "Make me go crazy",
+      "tokens": [
+        51414,
+        35650,
+        385,
+        352,
+        3219,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 22,
+      "seek": 5864,
+      "start": 82.64,
+      "end": 87.64,
+      "text": "And when we are alone",
+      "tokens": [
+        51564,
+        5289,
+        562,
+        321,
+        366,
+        3312,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4163793921470642,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 0.7406820058822632
+    },
+    {
+      "id": 23,
+      "seek": 8764,
+      "start": 87.64,
+      "end": 94.64,
+      "text": "We're just like a storm moving nowhere",
+      "tokens": [
+        50364,
+        4360,
+        434,
+        445,
+        411,
+        257,
+        7679,
+        2684,
+        11159,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3071259307861328,
+      "compression_ratio": 1.3839285714285714,
+      "no_speech_prob": 0.024359604343771935
+    },
+    {
+      "id": 24,
+      "seek": 8764,
+      "start": 94.64,
+      "end": 101.64,
+      "text": "Oh, because I just want to sing a song just for you",
+      "tokens": [
+        50714,
+        3756,
+        11,
+        570,
+        286,
+        445,
+        528,
+        281,
+        1522,
+        257,
+        2153,
+        445,
+        337,
+        291,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3071259307861328,
+      "compression_ratio": 1.3839285714285714,
+      "no_speech_prob": 0.024359604343771935
+    },
+    {
+      "id": 25,
+      "seek": 8764,
+      "start": 101.64,
+      "end": 105.64,
+      "text": "And now because they tell me I have to",
+      "tokens": [
+        51064,
+        5289,
+        586,
+        570,
+        436,
+        980,
+        385,
+        286,
+        362,
+        281,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3071259307861328,
+      "compression_ratio": 1.3839285714285714,
+      "no_speech_prob": 0.024359604343771935
+    },
+    {
+      "id": 26,
+      "seek": 8764,
+      "start": 105.64,
+      "end": 108.64,
+      "text": "I sing for you",
+      "tokens": [
+        51264,
+        40,
+        1522,
+        337,
+        291,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3071259307861328,
+      "compression_ratio": 1.3839285714285714,
+      "no_speech_prob": 0.024359604343771935
+    },
+    {
+      "id": 27,
+      "seek": 8764,
+      "start": 108.64,
+      "end": 114.64,
+      "text": "I sing for you",
+      "tokens": [
+        51414,
+        40,
+        1522,
+        337,
+        291,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3071259307861328,
+      "compression_ratio": 1.3839285714285714,
+      "no_speech_prob": 0.024359604343771935
+    },
+    {
+      "id": 28,
+      "seek": 11464,
+      "start": 114.64,
+      "end": 119.64,
+      "text": "I sing for you today",
+      "tokens": [
+        50364,
+        40,
+        1522,
+        337,
+        291,
+        965,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21855504889237254,
+      "compression_ratio": 1.4454545454545455,
+      "no_speech_prob": 0.03726693242788315
+    },
+    {
+      "id": 29,
+      "seek": 11464,
+      "start": 119.64,
+      "end": 126.64,
+      "text": "No matter what they say I sing for you",
+      "tokens": [
+        50614,
+        4540,
+        1871,
+        437,
+        436,
+        584,
+        286,
+        1522,
+        337,
+        291,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21855504889237254,
+      "compression_ratio": 1.4454545454545455,
+      "no_speech_prob": 0.03726693242788315
+    },
+    {
+      "id": 30,
+      "seek": 11464,
+      "start": 126.64,
+      "end": 129.64,
+      "text": "I sing for you",
+      "tokens": [
+        50964,
+        40,
+        1522,
+        337,
+        291,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21855504889237254,
+      "compression_ratio": 1.4454545454545455,
+      "no_speech_prob": 0.03726693242788315
+    },
+    {
+      "id": 31,
+      "seek": 11464,
+      "start": 129.64,
+      "end": 131.64,
+      "text": "If we want to know",
+      "tokens": [
+        51114,
+        8031,
+        321,
+        528,
+        281,
+        458,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21855504889237254,
+      "compression_ratio": 1.4454545454545455,
+      "no_speech_prob": 0.03726693242788315
+    },
+    {
+      "id": 32,
+      "seek": 11464,
+      "start": 131.64,
+      "end": 134.64,
+      "text": "It's the way I show love",
+      "tokens": [
+        51214,
+        3522,
+        311,
+        264,
+        636,
+        286,
+        855,
+        959,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21855504889237254,
+      "compression_ratio": 1.4454545454545455,
+      "no_speech_prob": 0.03726693242788315
+    },
+    {
+      "id": 33,
+      "seek": 11464,
+      "start": 134.64,
+      "end": 138.64,
+      "text": "When I sing to you",
+      "tokens": [
+        51364,
+        11645,
+        286,
+        1522,
+        281,
+        291,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21855504889237254,
+      "compression_ratio": 1.4454545454545455,
+      "no_speech_prob": 0.03726693242788315
+    },
+    {
+      "id": 34,
+      "seek": 11464,
+      "start": 138.64,
+      "end": 140.64,
+      "text": "Cause there's so many words",
+      "tokens": [
+        51564,
+        7585,
+        456,
+        311,
+        370,
+        867,
+        2283,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21855504889237254,
+      "compression_ratio": 1.4454545454545455,
+      "no_speech_prob": 0.03726693242788315
+    },
+    {
+      "id": 35,
+      "seek": 14064,
+      "start": 140.64,
+      "end": 146.64,
+      "text": "I want to say we'll just have to play",
+      "tokens": [
+        50364,
+        40,
+        528,
+        281,
+        584,
+        321,
+        603,
+        445,
+        362,
+        281,
+        862,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1802834471066793,
+      "compression_ratio": 1.4361702127659575,
+      "no_speech_prob": 0.028977250680327415
+    },
+    {
+      "id": 36,
+      "seek": 14064,
+      "start": 146.64,
+      "end": 148.64,
+      "text": "The song",
+      "tokens": [
+        50664,
+        2278,
+        2153,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1802834471066793,
+      "compression_ratio": 1.4361702127659575,
+      "no_speech_prob": 0.028977250680327415
+    },
+    {
+      "id": 37,
+      "seek": 14064,
+      "start": 148.64,
+      "end": 153.64,
+      "text": "Cause sing for you",
+      "tokens": [
+        50764,
+        7585,
+        1522,
+        337,
+        291,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1802834471066793,
+      "compression_ratio": 1.4361702127659575,
+      "no_speech_prob": 0.028977250680327415
+    },
+    {
+      "id": 38,
+      "seek": 14064,
+      "start": 153.64,
+      "end": 158.64,
+      "text": "I sing for you",
+      "tokens": [
+        51014,
+        40,
+        1522,
+        337,
+        291,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1802834471066793,
+      "compression_ratio": 1.4361702127659575,
+      "no_speech_prob": 0.028977250680327415
+    },
+    {
+      "id": 39,
+      "seek": 14064,
+      "start": 158.64,
+      "end": 162.64,
+      "text": "I sing for you today",
+      "tokens": [
+        51264,
+        40,
+        1522,
+        337,
+        291,
+        965,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1802834471066793,
+      "compression_ratio": 1.4361702127659575,
+      "no_speech_prob": 0.028977250680327415
+    },
+    {
+      "id": 40,
+      "seek": 14064,
+      "start": 162.64,
+      "end": 169.64,
+      "text": "No matter what they say I sing for you",
+      "tokens": [
+        51464,
+        4540,
+        1871,
+        437,
+        436,
+        584,
+        286,
+        1522,
+        337,
+        291,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1802834471066793,
+      "compression_ratio": 1.4361702127659575,
+      "no_speech_prob": 0.028977250680327415
+    },
+    {
+      "id": 41,
+      "seek": 16964,
+      "start": 169.64,
+      "end": 176.64,
+      "text": "I sing for you",
+      "tokens": [
+        50364,
+        40,
+        1522,
+        337,
+        291,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16646186767085905,
+      "compression_ratio": 1.5087719298245614,
+      "no_speech_prob": 0.07294774055480957
+    },
+    {
+      "id": 42,
+      "seek": 16964,
+      "start": 176.64,
+      "end": 180.64,
+      "text": "I sing for you",
+      "tokens": [
+        50714,
+        40,
+        1522,
+        337,
+        291,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16646186767085905,
+      "compression_ratio": 1.5087719298245614,
+      "no_speech_prob": 0.07294774055480957
+    },
+    {
+      "id": 43,
+      "seek": 16964,
+      "start": 180.64,
+      "end": 183.64,
+      "text": "I sing for you today",
+      "tokens": [
+        50914,
+        40,
+        1522,
+        337,
+        291,
+        965,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16646186767085905,
+      "compression_ratio": 1.5087719298245614,
+      "no_speech_prob": 0.07294774055480957
+    },
+    {
+      "id": 44,
+      "seek": 16964,
+      "start": 183.64,
+      "end": 187.64,
+      "text": "No matter what they say I sing for you",
+      "tokens": [
+        51064,
+        4540,
+        1871,
+        437,
+        436,
+        584,
+        286,
+        1522,
+        337,
+        291,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16646186767085905,
+      "compression_ratio": 1.5087719298245614,
+      "no_speech_prob": 0.07294774055480957
+    },
+    {
+      "id": 45,
+      "seek": 19964,
+      "start": 200.64,
+      "end": 202.64,
+      "text": "I'm done",
+      "tokens": [
+        50414,
+        40,
+        478,
+        1096,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 46,
+      "seek": 19964,
+      "start": 202.64,
+      "end": 205.64,
+      "text": "I just came home",
+      "tokens": [
+        50514,
+        40,
+        445,
+        1361,
+        1280,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 47,
+      "seek": 19964,
+      "start": 205.64,
+      "end": 212.64,
+      "text": "I went to Guangzhou",
+      "tokens": [
+        50664,
+        40,
+        1437,
+        281,
+        35815,
+        37874,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 48,
+      "seek": 19964,
+      "start": 212.64,
+      "end": 216.64,
+      "text": "I went to find them together",
+      "tokens": [
+        51014,
+        40,
+        1437,
+        281,
+        915,
+        552,
+        1214,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 49,
+      "seek": 19964,
+      "start": 216.64,
+      "end": 220.64,
+      "text": "I'm going to the supermarket today",
+      "tokens": [
+        51214,
+        40,
+        478,
+        516,
+        281,
+        264,
+        25180,
+        965,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 50,
+      "seek": 19964,
+      "start": 220.64,
+      "end": 223.64,
+      "text": "I think the more I look today",
+      "tokens": [
+        51414,
+        40,
+        519,
+        264,
+        544,
+        286,
+        574,
+        965,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 51,
+      "seek": 19964,
+      "start": 223.64,
+      "end": 225.64,
+      "text": "I feel better",
+      "tokens": [
+        51564,
+        40,
+        841,
+        1101,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 52,
+      "seek": 19964,
+      "start": 225.64,
+      "end": 227.64,
+      "text": "I didn't want to look so good",
+      "tokens": [
+        51664,
+        40,
+        994,
+        380,
+        528,
+        281,
+        574,
+        370,
+        665,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7643385715171939,
+      "compression_ratio": 1.408,
+      "no_speech_prob": 0.09762157499790192
+    },
+    {
+      "id": 53,
+      "seek": 22764,
+      "start": 227.64,
+      "end": 229.64,
+      "text": "I'm going to sleep",
+      "tokens": [
+        50364,
+        40,
+        478,
+        516,
+        281,
+        2817,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5517670512199402,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.0010236271191388369
+    },
+    {
+      "id": 54,
+      "seek": 25764,
+      "start": 257.64,
+      "end": 260.64,
+      "text": " I'm going to sleep",
+      "tokens": [
+        50414,
+        286,
+        478,
+        516,
+        281,
+        2817,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8030597567558289,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.7976908683776855
+    }
+  ],
+  "language": "zh"
+}
